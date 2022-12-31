@@ -1,4 +1,4 @@
-<img width="80%" height="auto" src="https://camo.githubusercontent.com/17a6f4dd369de2378653d71320d81a6854a6269741aa3b96ca3ae957f85caf5f/68747470733a2f2f692e696d6775722e636f6d2f586f31597a45742e706e67" data-canonical-src="https://cdn.discordapp.com/attachments/1056022729964400700/1058578722539716638/profile.png" style="max-width: 100%;">
+<img width="80%" height="auto" src="https://i.imgur.com/F6I11H2.png" data-canonical-src="https://i.imgur.com/F6I11H2.png" style="max-width: 100%;">
 
 <a href="https://discord.com/users/841700683568644113/" rel="nofollow"><img alt="Discord" title="Discord" src="https://camo.githubusercontent.com/12637f2bbc91f39c91bd3bf87c1b48aa4ae7ec7d28682b0c3aed0ff45732ab11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 
